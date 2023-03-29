@@ -1,0 +1,2 @@
+def Shop(n.arr):
+    
